@@ -11,5 +11,7 @@ make it set default preferences for all projects
  - make open in new window no ask
  - set JetBrains mono font
  - you name it
+ - keymap
+ - theme
 
 it must be global settings working automatically for everyone
