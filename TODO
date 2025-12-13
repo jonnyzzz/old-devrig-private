@@ -2,3 +2,5 @@
 - Add `devrig` to spellchecker
 - Use AI to test code and specs
 - support Cursor
+
+allow easy remote development -- devrig script to start on the remote machine plus yeat another obe to start on the local maxhine. 
