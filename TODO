@@ -3,4 +3,13 @@
 - Use AI to test code and specs
 - support Cursor
 
-allow easy remote development -- devrig script to start on the remote machine plus yeat another obe to start on the local maxhine. 
+allow easy remote development -- devrig script to start on the remote machine plus yeat another obe to start on the local maxhine.
+
+make it monitor all configuration files for changes
+
+make it set default preferences for all projects
+ - make open in new window no ask
+ - set JetBrains mono font
+ - you name it
+
+it must be global settings working automatically for everyone
