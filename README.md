@@ -1,6 +1,14 @@
 # devrig.dev
 [![Apache 2.0 License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
-[![Build](https://github.com/jonnyzzz/devrig.dev/actions/workflows/go.yml/badge.svg)](https://github.com/jonnyzzz/devrig.dev/actions/workflows/go.yml)
+
+# The PROJECT merges with MCP Steroid project, see https://mcp-steroid.jonnyzzz.com.
+
+Make your AI Agent change code with fewer cleanup loops.
+
+MCP Steroid gives your AI Agent the same semantic actions a JetBrains IDE gives humans — typed refactors, inspections, debugger, test runs — so the Agent finishes in fewer attempts and you spend less time verifying its output. Ships today as a JetBrains IDE plugin.
+
+
+# Older version:
 
 The command to start the AI-empowered development environment of your project.
 With all possible IDEs, extensions, and configurations.
